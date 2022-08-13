@@ -101,4 +101,4 @@ Colocaremos nele todos os comandos executados na página do Saucedeme e também 
 
 ## Expressões de gratidão
  
- Agraecer à todos da Data Sense pela oportunidade de participar desse teste, e quem venha mais.
+ Agraecer à todos da Sense Data pela oportunidade de participar desse teste, e quem venha mais.
